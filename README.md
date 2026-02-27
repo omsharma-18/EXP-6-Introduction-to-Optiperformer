@@ -76,5 +76,11 @@ The system includes:
 
 ---
 
+## Description:
+
+   This OptiPerformer simulation displays the performance of a 90 km fiber link operating at a bit rate of 2.5 Gbps and a frequency of 193.1 THz. The results show a high-quality signal with a Max Q Factor of 44.545 and a wide-open eye diagram, which indicates minimal noise and jitter. At this specific distance, the optical power of -21.079 dBm is sufficient to maintain a zero Bit Error Rate (BER), ensuring successful data recovery without errors.
+
+---
+
 ## RESULT
 Thus the experimtent is completed successfully.
