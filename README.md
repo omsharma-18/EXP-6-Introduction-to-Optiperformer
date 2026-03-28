@@ -20,7 +20,11 @@ The system includes:
 - A Bit Error Rate (BER) analyzer
 
 ---
+## BLOCK DIAGRAM 
 
+<img width="945" height="485" alt="image" src="https://github.com/user-attachments/assets/9cb75160-8c55-4bea-b2e3-29ff6f206186" />
+
+---
 ## Procedure
 
 1. Download and install OptiPerformer from [optiwave.com](https://optiwave.com).  
